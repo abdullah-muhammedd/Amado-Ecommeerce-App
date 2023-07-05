@@ -1,0 +1,73 @@
+﻿<div class="amado-main-page-container">
+    <div class="inner-container">
+        <div class="left-side-part">
+            <div class=" img">
+                @foreach (var image in ViewBag.IMAGES)
+                {
+                    @if (image.ItemID == ViewBag.ITEM.ItemID)
+                    {
+                        string url = @image.ImageURL;
+                        <img src="@url" alt="Your Photo" width="400" height="400">
+                        break;
+                    }
+                }
+            </div>
+            <div class="other-items">
+             <div class="cards">
+                    @for (int i = 0; i < 4 && i < ViewBag.OtherItems.Count; i++)
+                    {   
+                     @foreach (var image in ViewBag.IMAGES)
+                        {
+                            @if (image.ItemID == ViewBag.OtherItems[i].ItemID)
+                            {
+                                string url = @image.ImageURL;
+                                <div class="card">
+                                    <img src="@url" alt="Your Photo" width="400" height="400">
+                                    
+                                    <div class="overlay">
+                                        <a href=" @Url.Action("Product", "Home", new { id = ViewBag.OtherItems[i].ItemID })"><p>@ViewBag.OtherItems[i].Name</p></a>
+                                    </div>
+                                </div>
+
+                                break;
+                            }
+                        }
+                    }
+             </div>
+            </div>
+        </div>
+        <div class="text">
+            <h2 class="price">@ViewBag.ITEM.Price&nbsp;$</h2>
+            <h1>@ViewBag.ITEM.Name</h1>
+            @if(@ViewBag.ITEM.Quantity == 0)
+            {
+                <h2 class="in-stock">Out Of Stock</h2>
+            }
+            else{
+            <h2 class="in-stock">In Stock :&nbsp; @ViewBag.ITEM.Quantity</h2>
+            <form asp-action="AddToCart" method="post">
+                <input type="hidden" name="QueryItemID" value="@ViewBag.ITEM.ItemID" />
+                <input type="number" name="QueryQuantity" value="1" min="1" max=@ViewBag.ITEM.Quantity placeholder="Quantity">
+                <button type="submit" asp-controller="Home" asp-action="AddToCart">Add to Cart</button>
+            </form>
+            }
+        </div>
+    </div>
+
+    <div class="footer" style="margin-top:200px">
+        <div class="footerlist">
+        <div class="logofooter">
+            <img src="~/assets/logo2.png.webp" alt="your photo" id="logofooter">
+        </div>
+            <ul>
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Shop">Shop</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></li>
+            </ul>
+        </div>
+
+
+    </div>
+
+</div>

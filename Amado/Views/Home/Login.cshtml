@@ -1,0 +1,11 @@
+﻿@model User
+<div class="amado-main-page-container">
+    <h2 class="Login-header">Login</h2>
+    <div class="Login">
+        <form id="Login-form-id" class="Login-form" asp-action="Login" method="post">
+            <input class="Login-form-email" asp-for="Email" placeholder="Email" required />
+            <input type="password" class="Login-form-password" asp-for="Password" placeholder="Password" required />
+            <button type="submit" class="Login-form-submit" asp-action="Login">Login</button>
+        </form>
+    </div>
+</div>

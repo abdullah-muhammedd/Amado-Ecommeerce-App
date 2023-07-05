@@ -1,0 +1,115 @@
+.amado-main-page-container {
+    position: absolute;
+    width: 75%;
+    left: 25%;
+    display: flex;
+}
+.amado-main-page-container .in-container {
+        display: flex;
+}
+/* End Content */
+#toTop {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: var(--c1);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    z-index: 100;
+    border-radius: 8px;
+    transition: .2s;
+    cursor: pointer;
+}
+
+#toTop:hover {
+    box-shadow: 0 0 10px var(--c1);
+}
+/* Products Section */
+.products {
+    padding: 3rem 1rem 1rem 1rem;
+}
+.product-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+}
+.product-cards .card .card-body {
+    display: flex;
+    padding: 1rem 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+.product-cards .card img {
+    transition-duration:0.3s;
+}
+
+.product-cards .card:hover img
+{
+    filter:brightness(50%);
+}
+.product-cards .card .stars i {
+    color: var(--c1);
+}
+
+.card .card-body .product-details {
+    position: relative;
+}
+.card .card-body .product-details::before {
+    content: '';
+    position: absolute;
+    width: 80px;
+    height: 3px;
+    top: 0;
+    left: 0;
+    background-color: var(--c1);
+}
+.card .card-body .product-details .pro-category {
+    font-weight: bold;
+    transition-duration: 0.3s;
+}
+.card .card-body .product-details .pro-category:hover {
+    color: var(--c1);
+}
+.card .card-body .product-details .pro-price {
+    color: var(--c1);
+    padding-top: 1rem;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.card .card-body .add-product-to-cart {
+    text-align: end;
+}
+
+.card .card-body .add-product-to-cart .stars i {
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+
+}
+button i {
+    transition-duration: 0.3s;
+}
+button i:hover {
+    color: var(--c1);
+}
+/*  End Products Section */
+.footer {
+    float: left;
+    background-color: #252525;
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    bottom: -250px;
+}

@@ -1,0 +1,70 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.LINK = "AdminOrderDetails.css";
+    ViewBag.TITLE = "Amado | Order Details";
+}
+<section>
+    <div class="container">
+        <h2>Order @ViewBag.ORDER.OrderID Details</h2>
+        <div class="data-container">
+            <div class="user-data">
+                <h4>User Data</h4>
+                <p>User ID:&nbsp;&nbsp;@ViewBag.USER.UserID</p>
+                <p>First Name:&nbsp;&nbsp;@ViewBag.USER.FirstName</p>
+                <p>Last Name:&nbsp;&nbsp;@ViewBag.USER.SecondName</p>
+                <p>Company Name:&nbsp;&nbsp;@ViewBag.USER.CompanyName</p>
+                <p>Email:&nbsp;&nbsp;@ViewBag.USER.Email</p>
+                <p>Country:&nbsp;&nbsp;@ViewBag.USER.Country</p>
+                <p>Address:&nbsp;&nbsp;@ViewBag.USER.Address</p>
+                <p>Town:&nbsp;&nbsp;@ViewBag.USER.Town</p>
+                <p>ZIP Code:&nbsp;&nbsp;@ViewBag.USER.ZIPCode</p>
+                <p>Phone:&nbsp;&nbsp;@ViewBag.USER.PhoneNo</p>
+            </div>
+            <div class="cart-data">
+                <h4>Cart Data</h4>
+                <p>Cart ID:&nbsp;&nbsp;@ViewBag.CART.CartID</p>
+                <p>Total Price:&nbsp;&nbsp;@ViewBag.ORDER.TotalPrice</p>
+            </div>
+            <div class="items-data">
+                <h4>Ordered Items</h4>
+                <div class="item-card">
+                    <table>
+                        <tr>
+                            <th>Item ID</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                        </tr>
+                        @foreach (var cartItem in ViewBag.CARTITEMS)
+                        {
+                            <tr>
+                                <td>@cartItem.ItemID</td>
+                                <td>@cartItem.Quantity</td>
+                                <td>@cartItem.Price</td>
+                            </tr>
+                        }
+                    
+                    </table>
+                </div>
+            </div>
+            <div class="order-comment">
+                <p>comment:</p>
+                <p>@ViewBag.ORDER.Comment</p>
+            </div>
+        </div>
+         @{
+            string url2 = "/Admin/OrderDelete/"+ViewBag.ORDER.OrderID ;
+         }
+        <a data-url=@url2 id="deleteOrder" onclick="deleteOrder(event)" class="shipped">Shipped</a>
+        <div href="#" class="hidden-area" style="height: 100px;"></div>
+    </div>
+
+</section>
+<script>
+    function deleteOrder(event) {
+        event.preventDefault(); 
+        var url = event.currentTarget.dataset.url;;
+        fetch(url, { method: 'DELETE', headers: { 'Content-Type': 'application/json' } }).then((res) => {
+            location.replace("/Admin/Orders")
+        })
+    }
+</script>

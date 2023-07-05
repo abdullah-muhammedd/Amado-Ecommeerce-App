@@ -1,0 +1,67 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.LINK = "AdminUpdateProduct.css";
+    ViewBag.TITLE = "Amado | Update";
+}
+@model Item
+<section>
+    <div class="container">
+        <div class="form-div">
+            <h2>Update Product</h2>
+            <form asp-controller="Admin" asp-action="UpdateProduct" method="POST" enctype="multipart/form-data">
+                <input type="number" value="@ViewBag.ITEM.ItemID" name="ItemID" id="ItemID" hidden asp-for=ItemID>
+                <!-- name -->
+                <label for="Name" class="name-l">Name</label>
+                <input type="text" id="Name" name="Name" class="name-n" value="@ViewBag.ITEM.Name" asp-for=Name>
+                <!-- price -->
+                <label for="Price" class="price-l">Price</label>
+                <input type="number" id="Price" name="Price" class="price-n" value="@ViewBag.ITEM.Price" asp-for=Price>
+                <!-- rate -->
+                <label for="Rate" class="rate-l">Rate</label>
+                <input type="number" id="Rate" name="Rate" class="rate-n" value="@ViewBag.ITEM.Rate" asp-for=Rate>
+                <!-- category -->
+                <label for="Category" class="category-l">Category</label>
+                <input list="Category-list" id="Category" name="Category" class="category-n" value="@ViewBag.ITEM.Category" asp-for=Category>
+                <datalist id="Category-list">
+                    <option value="0">Chairs</option>
+                    <option value="1">Beds</option>
+                    <option value="2">Accessories</option>
+                    <option value="3">Furniture</option>
+                    <option value="4">HomeDeco</option>
+                    <option value="5">Dressings</option>
+                    <option value="6">Tables</option>
+                </datalist>
+                <!-- brand -->
+                <label for="Brand" class="brand-l">Brand</label>
+                <input list="Brand-list" id="Brand" name="Brand" class="brand-n" value="@ViewBag.ITEM.Brand" asp-for=Brand>
+                <datalist id="Brand-list">
+                    <option value="0">Amado</option>
+                    <option value="1">Ikea</option>
+                    <option value="2">FurnitureInc</option>
+                    <option value="3">TheFactory</option>
+                    <option value="4">Artdeco</option>
+                </datalist>
+                <!-- color -->
+                <label for="Color" class="color-l">Color</label> 
+                <input list="Color-list" id="Brand" name="Color" class="color-n" value="@ViewBag.ITEM.Color" asp-for=Color>
+                <datalist id="Color-list">
+                    <option value="0">Red</option>
+                    <option value="1">Blue</option>
+                    <option value="2">Green</option>
+                    <option value="3">Yellow</option>
+                    <option value="4">Black</option>
+                    <option value="5">White</option>
+                </datalist>
+                <!-- quantity -->
+                <label for="Quantity" class="quantity-l">Quantity</label>
+                <input type="number" id="Quantity" name="Quantity" class="quantity-n" value="@ViewBag.ITEM.Quantity" asp-for=Quantity>
+                <!-- submit -->
+                <input type="submit" value="Update" class="add-btn">
+            </form>
+        </div>
+        @{
+            string url = ViewBag.IMAGE.ImageURL;
+            <img src="@url" alt="Your Photo">
+        }
+    </div>
+</section>

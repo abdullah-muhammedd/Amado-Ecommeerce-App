@@ -1,0 +1,103 @@
+﻿
+@{
+    int counter = 0;
+}
+<div class="amado-main-page-container" style="position: relative">
+    <div class="photo_cont">
+        @for (int i = counter; i < counter + 3 && i < ViewBag.ITEMS.Count; i++)
+       {
+        <div class="photo-container">
+            @foreach (var image in ViewBag.IMAGES)
+            {
+            @if (image.ItemID == ViewBag.ITEMS[i].ItemID)
+            {
+                string url = @image.ImageURL;
+                        <img src="@url" alt="Your Photo">
+                break;
+            }
+            }
+            <div class="text-overlay">
+                <p style="color:orange; width: 90px; font-size: 25px;">--------</p>
+                    <p>From @ViewBag.ITEMS[i].Price</p>
+                    <h4><a href=" @Url.Action("Product", "Home", new { id = ViewBag.ITEMS[i].ItemID })" style="color:black"> @ViewBag.ITEMS[i].Name</a></h4>
+            </div>
+         </div>
+       }
+        @{
+            counter = 3;
+        }
+    </div>
+    <div class="photo_cont">
+        @for (int i = counter; i < counter + 3 && i < ViewBag.ITEMS.Count; i++)
+        {
+            <div class="photo-container">
+                @foreach (var image in ViewBag.IMAGES)
+                {
+                    @if (image.ItemID == ViewBag.ITEMS[i].ItemID)
+                    {
+                        string url = @image.ImageURL;
+                        <img src="@url" alt="Your Photo">
+                        break;
+                    }
+                }
+                <div class="text-overlay">
+                    <p style="color:orange; width: 90px; font-size: 25px;">--------</p>
+                    <p>From @ViewBag.ITEMS[i].Price</p>
+                    <h4><a href=" @Url.Action("Product", "Home", new { id = ViewBag.ITEMS[i].ItemID })" style="color:black"> @ViewBag.ITEMS[i].Name</a></h4>
+                </div>
+            </div>
+        }
+        @{
+            counter = 6;
+        }
+    </div>
+    <div class="photo_cont">
+        @for (int i = counter; i < counter + 3 && i < ViewBag.ITEMS.Count; i++)
+        {
+            <div class="photo-container">
+                @foreach (var image in ViewBag.IMAGES)
+                {
+                    @if (image.ItemID == ViewBag.ITEMS[i].ItemID)
+                    {
+                        string url = @image.ImageURL;
+                        <img src="@url" alt="Your Photo">
+                        break;
+                    }
+                }
+                <div class="text-overlay">
+                    <p style="color:orange; width: 90px; font-size: 25px;">--------</p>
+                    <p>From @ViewBag.ITEMS[i].Price</p>
+                    <h4><a href=" @Url.Action("Product", "Home", new { id = ViewBag.ITEMS[i].ItemID })" style="color:black"> @ViewBag.ITEMS[i].Name</a></h4>
+                </div>
+            </div>
+        }
+        @{
+            counter = 9;
+        }
+    </div>
+    <div class="Subscribe">
+        <div class="formdiv">
+            <form method="post" class="myform">
+                <button type="submit" name="submit">Subscribe</button>
+                <input type="text" name="email" placeholder="Your E-mail">
+            </form>
+        </div>
+        <div class="content">
+            <h1 class="discount">Subscribe for a <span class="dis">25% Discount</span></h1>
+            <p class="words">Nulla ac convallis lorem, eget euismod nisl. Donec in libero sit amet mi vulputate consectetur. Donec auctor interdum purus, ac finibus massa bibendum nec.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="logofooter">
+            <img src="~/assets//logo2.png.webp" alt="your photo" id="logofooter">
+        </div>
+        <div class="footerlist">
+            <ul>
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Shop">Shop</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

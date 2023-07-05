@@ -1,0 +1,104 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.LINK = "AdminIndex.css";
+    ViewBag.TITLE = "Amado | Products";
+}
+
+<section class="amado-items-table">
+    <div class="container">
+        <table>
+            <tr>
+                <th style="width: 5%;">
+                    ID
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th style="width: 5%;">
+                    Price
+                </th>
+                <th style="width: 5%;">
+                    Rate
+                </th>
+                <th style="width:10%;">
+                    Category
+                </th>
+                <th style="width:10%;">
+                    Brand
+                </th>
+                <th style="width:10%;">
+                    Color
+                </th>
+                <th style="width: 5%;">
+                    Quantity
+                </th>
+                <th>
+                    Image
+                </th>
+                <th style="width: fit-content;">
+                    Nav
+                </th>
+            </tr>
+             @foreach (var item in ViewBag.ITEMS)
+                {
+                    Enum.TryParse(item.Category.ToString(), out Amado.Data.Enums.Category category);
+                    Enum.TryParse(item.Brand.ToString(), out Amado.Data.Enums.Brand brand);
+                    Enum.TryParse(item.Color.ToString(), out Amado.Data.Enums.Color color);
+                    <tr>
+                        <td>
+                            @item.ItemID
+                        </td>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            @item.Price $
+                        </td>
+                        <td>
+                            @item.Rate
+                        </td>
+                        <td>
+                            @category
+                        </td>
+                        <td>
+                            @brand
+                        </td>
+                        <td>
+                            @color
+                        </td>
+                        <td>
+                            @item.Quantity
+                        </td>
+                        <td>
+                            @foreach (var image in ViewBag.IMAGES)
+                            {
+                                @if (image.ItemID == item.ItemID)
+                                {
+                                    string url = @image.ImageURL;
+                                    <img src="@url" alt="Your Photo">
+                                    break;
+                                }
+                            }
+                        </td>
+                        <td>
+                        @{
+                            string url2 = "/Admin/Index/"+item.ItemID;
+                        }
+                        <a href=" @Url.Action("UpdateProduct", "Admin", new { id = item.ItemID })"> <i class="fa-solid fa-pen-to-square"></i></a>
+                        <a data-url=@url2 id="deleteIcon" onclick="deleteItem(event)"><i class="fa-solid fa-trash"></i></a>
+                       </td>
+                    </tr>
+                }
+
+        </table>
+    </div>
+</section>
+<script>
+    function deleteItem(event) {
+        event.preventDefault(); 
+        var url = event.currentTarget.dataset.url;;
+        fetch( url, {method:'DELETE',headers: {'Content-Type': 'application/json'}}).then((res)=>{
+            location.reload()
+        })
+    }
+</script>

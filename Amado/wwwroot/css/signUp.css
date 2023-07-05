@@ -1,0 +1,136 @@
+﻿
+.signUp-form{
+    margin-bottom:10rem;
+}
+.signUp-form input, .signUp-form select {
+    border-radius: 0.4rem;
+    background-color: #eee;
+}
+.signUp-form button {
+    width: 90px;
+    height: 40px;
+    font-weight:bold;
+    border-radius:0.4rem;
+    margin-left:calc(50% - 45px);
+}
+.signUp-form-first-name {
+    grid-area: checkout-form-first-name;
+    background-color: #f5f7fa;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-last-name {
+    grid-area: checkout-form-last-name;
+    background-color: #f5f7fa;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-company-name {
+    grid-area: checkout-form-company-name;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-email{
+    grid-area: checkout-form-email;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-password {
+    grid-area: checkout-form-passowrd;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-country {
+    grid-area: checkout-form-country;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-address {
+    grid-area: checkout-form-address;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-town {
+    grid-area: checkout-form-town;
+    background-color: #f5f7fa;
+    width: 600px;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-zip-code {
+    grid-area: checkout-form-zip-code;
+    background-color: #f5f7fa;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-phone-no {
+    grid-area: checkout-form-phone-no;
+    background-color: #f5f7fa;
+    border: 0px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.signUp-form-register {
+    grid-area: signUp-form-register;
+    width: 600px;
+    height: 50px;
+    background-color: var(--c1);
+    border: none;
+    color: white;
+    margin: 10px;
+    transition: .3s;
+}
+
+.signUp-form {
+    display: grid;
+    text-align: left;
+    grid-template-areas:
+        "checkout-form-first-name    checkout-form-last-name"
+        "checkout-form-company-name  checkout-form-company-name"
+        "checkout-form-email         checkout-form-email"
+        "checkout-form-passowrd      checkout-form-passowrd"
+        "checkout-form-country       checkout-form-country"
+        "checkout-form-address       checkout-form-address"
+        "checkout-form-town          checkout-form-town"
+        "checkout-form-zip-code      checkout-form-phone-no"
+        "signUp-form-register        signUp-form-register";
+}
+
+
+.amado-main-page-container {
+    display: flex;
+}
+
+.signUp-form-register:hover {
+    background-color: #242424;
+    cursor: pointer;
+}

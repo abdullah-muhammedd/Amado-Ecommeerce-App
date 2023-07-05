@@ -1,0 +1,81 @@
+/* Global Rules */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:root {
+    --c1: #fbb610;
+    --c2: #121212;
+    --c3: #3c3c3c;
+    --c4: #252525;
+}
+
+html {
+    scroll-behavior: smooth;
+    margin: 0px;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+/* End Global rules */
+/* Start Header */
+header .container nav{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.amado-nav-logo h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+.amado-nav-logo p {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+.amado-nav-logo h1::after {
+    content: "";
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: var(--c1);
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(10%, 20%);
+}
+header .container nav ul {
+    flex: 0.4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .container nav ul li{
+    font-size: 1.2rem;
+    transition-duration: 0.3s;
+}
+header .container nav ul li:hover {
+    color: var(--c1);
+}
+/* End  header */

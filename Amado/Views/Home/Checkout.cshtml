@@ -1,0 +1,33 @@
+﻿@model User
+<div class="amado-main-page-container">
+        <div class="checkout">
+            <h2 class="checkout-header">Checkout</h2>
+            <form id="checkout-form-id" class="checkout-form" asp-action="checkout" method="post">
+            <input class="checkout-form-first-name" asp-for="FirstName" placeholder="First Name" value="@Model.FirstName" readonly required />
+            <input class="checkout-form-last-name" asp-for="SecondName" placeholder="Last Name" value="@Model.SecondName" readonly required />
+            <input class="checkout-form-company-name" asp-for="CompanyName" placeholder="Company Name" value="@Model.CompanyName" readonly required />
+            <input class="checkout-form-email" asp-for="Email" placeholder="Email" value="@Model.Email" readonly required />
+            <select class="checkout-form-country" asp-for="Country" value="@Model.Country" required>
+                <option value="egypt">Egypt</option>
+            </select>
+            <input Address" class="checkout-form-address" asp-for="Address" placeholder="Address" value="@Model.Address" required />
+            <input Town" class="checkout-form-town" asp-for="Town" placeholder="Town" required />
+            <input ZIPCode" class="checkout-form-zip-code" asp-for="ZIPCode" placeholder="Zip Code" value="@Model.ZIPCode" required />
+            <input PhoneNo" class="checkout-form-phone-no" asp-for="PhoneNo" placeholder="Phone No" value="@Model.PhoneNo" required />
+            <input hidden class="checkout-form-phone-no" asp-for="CartID" placeholder="CartID" value="@Model.CartID" hidden />
+            <textarea class="checkout-form-comment" name="comment" cols="30" rows="10" placeholder="Leave a comment about your order"></textarea>
+            </form>
+        </div>
+        <div class="cart-total">
+            <h2 class="cart-header">Cart Total</h2>
+            <ul class="cart-list">
+                <li><p>subtotal:</p></li>
+                <li><p>$@ViewBag.TotalPrice</p></li>
+                <li><p>Delivery:</p></li>
+                <li><p>Free</p></li>
+                <li><p>Total:</p></li>
+            <li><p>$@ViewBag.TotalPrice</p></li>
+            </ul>
+        <button class="cart-button" type="submit" form="checkout-form-id" asp-controller="Home" asp-action="Checkout">Checkout</button>
+        </div>
+</div>

@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div id="toTop"><i class="fa-solid fa-up-long"></i></div>
+<!-- Start Content -->
+<div class="amado-main-page-container">
+    <div class="in-container">
+        <section class="products">
+            <div class="product-cards">
+                @foreach (var item in ViewBag.ITEMS)
+                {
+                    <div class="card">
+                        <div class="card-img">
+                            @foreach (var image in ViewBag.IMAGES)
+                            {
+                                @if (image.ItemID == item.ItemID)
+                                {
+                                    string url = @image.ImageURL;
+                                    <img src="@url" alt="Your Photo" width="400" height="400" >
+                                    break;
+                                }
+                            }
+                        </div>
+                        <div class="card-body">
+                            <div class="product-details">
+                                <p class="pro-price">@item.Price$</p>
+                                <p class="pro-category"><a href=" @Url.Action("Product", "Home", new { id = item.ItemID })"> @item.Name</a></p>
+                            </div>
+                            <div class="add-product-to-cart">
+                                <div class="stars">
+                                    @for(int i = 0; i<item.Rate;i++)
+                                    {
+                                        <i class="fa-solid fa-star"></i>
+                                    }
+                                </div>
+                                <form asp-action="AddToCart" method="post">
+                                    <input type="hidden" name="QueryItemID" value="@item.ItemID" />
+                                    <input type="hidden" name="QueryQuantity" value="1">
+                                    <button class="add-to-cart" type="submit" asp-controller="Home" asp-action="AddToCart"><i class="fa-solid fa-cart-shopping"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+    </div>
+
+    <div class="footer">
+        <div class="logofooter">
+            <img src="~/assets//logo2.png.webp" alt="your photo" id="logofooter">
+        </div>
+        <div class="footerlist">
+            <ul>
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Shop">Shop</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></li>
+            </ul>
+        </div>
+       
+    </div>
+</div>
+<!-- End content -->

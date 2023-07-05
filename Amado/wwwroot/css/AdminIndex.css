@@ -1,0 +1,36 @@
+section table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 0.2rem;
+}
+section table tr {
+    font-size: 1rem;
+    text-align: center;
+    
+}
+section table tr:hover td:nth-child(2) {
+background-color: #ddd;
+}
+section table th{
+    height: 5rem;
+}
+    section table td {
+        height: 5rem;
+        border-radius: 0.2rem;
+        transition-duration: 0.3s;
+    }
+section table tr td img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+}
+section table tr a:nth-child(1) i{
+    padding-right: 3px;
+}
+section table tr a i {
+    font-size: 1.5rem;
+    transition-duration: 0.3s;
+}
+section table tr a i:hover{
+    color: var(--c1);
+}

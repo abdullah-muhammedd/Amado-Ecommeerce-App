@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- FontAwsome -->
+    <link rel="stylesheet" href="~/css/all.min.css">
+    <!-- GoogleFonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <!-- Normalization -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+        integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- StyleSheet -->
+    <link rel="stylesheet" href="~/css/template.css">
+    <link rel="stylesheet" href="~/css/@ViewBag.LINK">
+
+    <title>Amado | @ViewBag.TITLE</title>
+</head>
+<body>
+    <!-- Sidebar -->
+    <nav class="amado-nav">
+        <div class="amado-nav-logo">
+            <h1>AMAD </h1>
+            <p>FURNITURE</p>
+        </div>
+        <ul class="amado-nav-ul">
+            <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Shop">Shop</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></li>
+        </ul>
+        <div class="amado-nav-buttons">
+            @if (!ViewBag.LoginStatus){
+                <button><a asp-area ="" asp-controller="Home" asp-action="SignUp">Sign Up</a></button>
+                <button><a asp-area="" asp-controller="Home" asp-action="Login">Login</a></button>
+            }
+            else
+            {
+                <button><a asp-area="" asp-controller="Home" asp-action="Logout">Logout</a></button>
+            }
+        </div>
+        <div class="amado-nav-widget">
+            <div class="widget">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></span>
+            </div>
+        </div>
+        <div class="amado-nav-social-icons">
+            <a href=""><i class="fa-brands fa-square-pinterest"></i></a>
+            <a href=""><i class="fa-brands fa-square-instagram"></i></a>
+            <a href=""><i class="fa-brands fa-square-facebook"></i></a>
+            <a href=""><i class="fa-brands fa-square-twitter"></i></a>
+        </div>
+    </nav>
+    <!-- End Sidebar -->
+    <!-- Start Content -->
+    @RenderBody()
+    <!-- Script -->
+    <script src="~/js/template.js"></script>
+</body>
+</html>
+          

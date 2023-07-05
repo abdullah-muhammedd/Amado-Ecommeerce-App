@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Cart_Item>
+<div class="amado-main-page-container">
+    <h2 class="cart-table-title">Shopping Cart</h2>
+    <div class="cart-op">
+        <table class="amado-cart-table">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var cartItem in Model){
+                    <tr>
+                    @foreach(var image in ViewBag.IMAGES)
+                        {
+                            @if(image.ItemID == cartItem.ItemID)
+                           {
+                                string url = @image.ImageURL;
+                               <td><img class="item-cart-img" src=@url alt="cart1"></td>
+                           }
+                        }
+                    @foreach (var itemDetailed in ViewBag.ITEMSDETAILED){
+                        @if(cartItem.ItemID == itemDetailed.ItemID)
+                        {
+
+                                <td><h5 class="item-cart-name">@itemDetailed.Name</h5></td>
+                                <td><sapn class="item-cart-price">@itemDetailed.Price $</sapn></td>
+                            <td>
+                                <div class="qty-btn">
+                                        <form asp-action="RemoveFromCart" method="post">
+                                            <input type="hidden" name="QueryItemID" value="@cartItem.ItemID" />
+                                            <input type="hidden" name="QueryQuantity" value="1" />
+                                            <button class="qty-btn-dec" type="submit" asp-controller="Home" asp-action="RemoveFromCart">-</button>
+                                        </form>
+                                        <span class="qty-btn-num">@cartItem.Quantity</span>
+                                        <form asp-action="AddToCart" method="post">
+                                            <input type="hidden" name="QueryItemID" value="@cartItem.ItemID" />
+                                            <input type="hidden" name="QueryQuantity" value="1" />
+                                            <button class="qty-btn-inc" type="submit" asp-controller="Home" asp-action="AddToCart">+</button>
+                                        </form>
+                                </div>
+                            </td>
+                        }
+                    }
+                    </tr>
+                    }
+            </tbody>
+        </table>
+        <div class="cart-summ">
+            <h class="cart-summ-header">Cart Total</h>
+            <ul class="cart-summ-list">
+                <li>
+                    <span>Subtotal:</span>
+                    <span>$@ViewBag.CART.TotalPrice</span>
+                </li>
+                <li>
+                    <span>Delivery:</span>
+                    <span>Free</span>
+                </li>
+                <li>
+                    <span>Total:</span>
+                    <span>$@ViewBag.CART.TotalPrice</span>
+                </li>
+            </ul>
+            <button><a a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></button>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="logofooter">
+            <img src="~/assets/logo2.png.webp" alt="your photo" id="logofooter">
+        </div>
+        <div class="footerlist">
+            <ul>
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Shop">Shop</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Cart">Cart</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Checkout">Checkout</a></li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>

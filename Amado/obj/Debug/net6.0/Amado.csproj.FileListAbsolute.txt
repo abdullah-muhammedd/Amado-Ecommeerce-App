@@ -1,0 +1,964 @@
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\College\Software development\Project\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\College\Software development\Project\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\SoftwareDevelopmentProject_M\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\SoftwareDevelopmentProject_M\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\appsettings.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.exe
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+C:\Users\Medhat\OneDrive\Desktop\Amado3\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project\sw1\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\College\Software development\Project\sw1\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\SWD\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SWD\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\SWD\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\SWD\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\SWD\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\SWD\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\SWD\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\College\Software development\Project Final\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\College\Software development\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\College\Software development\Project Final Final\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\Project Final Final\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\appsettings.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.exe
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+C:\Users\Fidelio\Desktop\Project Final Final Final\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\appsettings.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.exe
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+D:\Project Final Final Final Final Final Final Final FInal Final\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\appsettings.json
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.staticwebassets.runtime.json
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.exe
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.deps.json
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.runtimeconfig.json
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Amado.pdb
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.csproj.AssemblyReference.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfoInputs.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.AssemblyInfo.cs
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CoreCompileInputs.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.RazorAssemblyInfo.cs
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.Amado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.build.Amado.props
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amado.props
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amado.props
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\scopedcss\bundle\Amado.styles.css
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.csproj.CopyComplete
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\refint\Amado.dll
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.pdb
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\Amado.genruntimeconfig.cache
+C:\Users\Fidelio\Desktop\Amado\Amado\obj\Debug\net6.0\ref\Amado.dll

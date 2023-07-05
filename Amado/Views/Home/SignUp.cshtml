@@ -1,0 +1,21 @@
+﻿@model User
+<div class="amado-main-page-container">
+    <div class="signUp">
+        <h2 class="signup-header">Sign Up</h2>
+        <form id="signUp-form-id" class="signUp-form" asp-action="SignUp" method="post">
+            <input class="signUp-form-first-name" asp-for="FirstName" placeholder="First Name" required />
+            <input class="signUp-form-last-name" asp-for="SecondName" placeholder="Last Name" required />
+            <input class="signUp-form-company-name" asp-for="CompanyName" placeholder="Company Name" required />
+            <input class="signUp-form-email" asp-for="Email" placeholder="Email" required />
+            <input type="password" class="signUp-form-password" asp-for="Password" placeholder="Password" required />
+            <select class="signUp-form-country" asp-for="Country" required>
+                <option value="egypt">Egypt</option >
+            </select>
+            <input Address" class="signUp-form-address" asp-for="Address" placeholder="Address" required />
+            <input Town" class="signUp-form-town" asp-for="Town" placeholder="Town" required />
+            <input ZIPCode" class="signUp-form-zip-code" asp-for="ZIPCode" placeholder="Zip Code" required />
+            <input PhoneNo" class="signUp-form-phone-no" asp-for="PhoneNo" placeholder="Phone No" required />
+            <button type="submit" class="signUp-form-register" asp-action="SignUp">register</button>
+        </form>
+    </div>
+</div>

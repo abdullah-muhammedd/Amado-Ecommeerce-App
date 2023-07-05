@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- FontAwsome -->
+    <link rel="stylesheet" href="~/css/all.min.css"> 
+    <!-- GoogleFonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
+    <!-- Normalization -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+          integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer">
+    <!-- StyleSheet -->
+    <link rel="stylesheet" href="~/css/AdminTemplate.CSS?v=@DateTime.Now.Ticks">
+    <link rel="stylesheet" href="~/css/@ViewBag.LINK">
+    <title>@ViewBag.TITLE</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="amado-nav-logo">
+                    <h1>AMAD </h1>
+                    <p>DASHBOARD</p>
+                </div>
+                <ul>
+                    <li><a asp-area="" asp-controller="Admin" asp-action="Index">Products</a></li>
+                    <li><a asp-area="" asp-controller="Admin" asp-action="AddProduct">Add Product</a></li>
+                    <li><a asp-area="" asp-controller="Admin" asp-action="Orders">Orders</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    @RenderBody()
+</body>
+
+</html>

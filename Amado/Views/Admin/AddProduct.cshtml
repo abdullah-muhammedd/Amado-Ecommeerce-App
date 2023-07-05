@@ -1,0 +1,63 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.LINK = "AdminAddProduct.css";
+    ViewBag.TITLE = "Amado | Add";
+}
+@model Item
+<section>
+    <div class="container">
+        <h2>Add Product</h2>
+        <form asp-controller="Admin" asp-action="AddProduct" method="POST" enctype="multipart/form-data">
+            <!-- name -->
+            <label for="Name" class="name-l">Name</label>
+            <input type="text" id="Name" name="Name" class="name-n" asp-for=Name required>
+            <!-- price -->
+            <label for="Price" class="price-l">Price</label>
+            <input type="number" id="Price" name="Price" class="price-n" asp-for=Price required>
+            <!-- rate -->
+            <label for="Rate" class="rate-l">Rate</label>
+            <input type="number" id="Rate" name="Rate" class="rate-n" asp-for=Rate required max="5" min="0">
+            <!-- category -->
+            <label for="Category" class="category-l">Category</label>
+            <input list="Category-list" id="Category" name="Category" class="category-n" asp-for=Category required>
+            <datalist id="Category-list">
+                <option value="0">Chairs</option>
+                <option value="1">Beds</option>
+                <option value="2">Accessories</option>
+                <option value="3">Furniture</option>
+                <option value="4">HomeDeco</option>
+                <option value="5">Dressings</option>
+                <option value="6">Tables</option>
+            </datalist>
+            <!-- brand -->
+            <label for="Brand" class="brand-l">Brand</label>
+            <input list="Brand-list" id="Brand" name="Brand" class="brand-n" asp-for=Brand required>
+            <datalist id="Brand-list">
+                <option value="0">Amado</option>
+                <option value="1">Ikea</option>
+                <option value="2">FurnitureInc</option>
+                <option value="3">TheFactory</option>
+                <option value="4">Artdeco</option>
+            </datalist>
+            <!-- color -->
+            <label for="Color" class="color-l">Color</label>
+            <input list="Color-list" id="Brand" name="Color" class="color-n" asp-for=Color required>
+            <datalist id="Color-list">
+                <option value="0">Red</option>
+                <option value="1">Blue</option>
+                <option value="2">Green</option>
+                <option value="3">Yellow</option>
+                <option value="4">Black</option>
+                <option value="5">White</option>
+            </datalist>
+            <!-- quantity -->
+            <label for="Quantity" class="quantity-l">Quantity</label>
+            <input type="number" id="Quantity" name="Quantity" class="quantity-n" asp-for=Quantity required>
+            <!-- image -->
+            <label for="imageFile" class="image-l">Upload Product Image</label>
+            <input type="file" id="imageFile" name="imageFile" accept="image/png, image/jpeg, image/webp" class="image-btn">
+            <!-- submit -->
+            <input type="submit" value="Add" class="add-btn">
+        </form>
+    </div>
+</section>

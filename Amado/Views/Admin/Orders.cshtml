@@ -1,0 +1,19 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.LINK = "AdminOrders.css";
+    ViewBag.TITLE = "Amado | Orders";
+}
+<section>
+    <div class="container">
+        <h2>All Orders</h2>
+        <div class="order-cards-container">
+            @foreach(var order in ViewBag.ORDERS)
+            {
+                <div class="order-card">
+                    <h4>Order Number: @order.OrderID</h4>
+                    <a href=" @Url.Action("OrderDetails", "Admin", new { id = order.OrderID })">Details</a>
+                </div>
+            }
+        </div>
+    </div>
+</section>
