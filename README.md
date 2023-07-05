@@ -5,7 +5,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/abdullah-muhammedd/Amado-Ecommeerce-App)
 
 # Description 
-A Furniture Ecommerce Application
+A Furniture eCommerce Application
 
 # Important Note: 
 This Project is a team work.I was a part from the team created this project. 
@@ -24,7 +24,7 @@ My role:
 # Installation 
 clone the repository from your CLI using this command 
 ```bash 
-git clone https://github.com/abdullah-muhammedd/BlogNodeApp.git
+git clone https://github.com/abdullah-muhammedd/Amado-Ecommeerce-App.git
 ```
 Make Sure you installed 
 - Visual Studio 2022
