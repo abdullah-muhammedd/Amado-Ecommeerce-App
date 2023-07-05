@@ -2,7 +2,7 @@
 
 
 # Amado 
-![Lines of code](https://img.shields.io/tokei/lines/github/abdullah-muhammedd/Amado-Ecommeerce-App)
+![Lines of code](https://img.shields.io/tokei/lines/github.com/abdullah-muhammedd/Amado-Ecommeerce-App)
 
 # Description 
 A Furniture eCommerce Application
